@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mahfuzzur Rahman</h1>
-<h3 align="center">I'm particularly interested in the new use cases and opportunities that AI brings to the development of healthcare applications </h3>
+<h3 align="center">I'm particularly interested in the new use cases and opportunities that AI brings to the development of real-world applications . Hands-on experience developing algorithms and models as a Machine Learning engineer.  I'm looking forward to strengthening my expertise and tackling real-world  challenges in a collaborative environment. </h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Computational Psychiatry Researches**
+- 🔭 I’m currently working on **Federated Learning, Large Language Models (LLM), Natural Language Processing, Machine Learning, Python**
 
-- 🌱 I’m currently learning **Explainable AI, Federated Learning and Meta Learning**
+- 🌱 I’m currently learning **Zero-Knowledge Machine Learning (zkML), Explainable Artificial Intelligence (XAI)**
 
-- 👯 I’m looking to collaborate on **NLP Project Related to Healthcare**
+- 👯 I’m looking to collaborate on **Decentralized Large Language Models (LLM) and Zero-Knowledge Machine Learning (zkML) projects**
 
 - 📫 How to reach me **mahfuzzur.rahman.samir@gmail.com**
 
