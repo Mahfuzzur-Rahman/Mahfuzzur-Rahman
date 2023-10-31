@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfuzzur Rahman</h1>
-<h3 align="center">I'm particularly interested in the new use cases and opportunities that AI brings to the development of real-world applications . Hands-on experience developing algorithms and models as a Machine Learning engineer.  I'm looking forward to strengthening my expertise and tackling real-world  challenges in a collaborative environment. </h3>
+<h3 align="center">I'm particularly interested in the new use cases and opportunities that AI brings to the development of real-world applications . Hands-on experience developing algorithms and models as a Machine Learning engineer. </h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Federated Learning, Large Language Models (LLM), Natural Language Processing, Machine Learning, Python**
