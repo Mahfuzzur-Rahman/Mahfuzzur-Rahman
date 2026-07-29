@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💼 Most recently shipped **production agentic AI systems** — multi-agent orchestration (LangGraph, CrewAI), MCP-based data integration, and RAG evaluation (ragas) — as a Forward Deployed AI Engineer
-- 🔭 Currently exploring my next role as a **Forward Deployed AI Engineer, AI Engineer, or ML Engineer in Canada**
+- 🔭 Currently exploring my next role as a **Forward Deployed AI Engineer, AI Engineer, or ML Engineer**
 - 👯 Looking to collaborate on **open-source agentic AI tooling** and **privacy-preserving ML (federated learning)** projects
 - 💬 Ask me about **LangGraph, RAG evaluation, or federated learning**
 - 📫 How to reach me **mahfuzzur.rahman.samir@gmail.com**
